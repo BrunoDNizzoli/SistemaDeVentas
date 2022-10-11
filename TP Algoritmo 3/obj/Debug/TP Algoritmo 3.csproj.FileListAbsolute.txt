@@ -1,0 +1,54 @@
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\bin\Debug\TP Algoritmo 3.exe.config
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\bin\Debug\TP Algoritmo 3.exe
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\bin\Debug\TP Algoritmo 3.pdb
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.AssemblyReference.cache
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmPantalla.resources
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.Properties.Resources.resources
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.GenerateResource.cache
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.CoreCompileInputs.cache
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.exe
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.pdb
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.frmPantallainicio.resources
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmVendedores.resources
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmClientes.resources
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.frmProductos1.resources
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.frmResultados.resources
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmOperaciones.resources
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmCierre.resources
+D:\Visual Studio Proyectos\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmProductos2.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\bin\Debug\TP Algoritmo 3.exe.config
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\bin\Debug\TP Algoritmo 3.exe
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\bin\Debug\TP Algoritmo 3.pdb
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmCierre.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmClientes.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmOperaciones.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.frmPantallainicio.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.frmProductos1.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmProductos2.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.frmResultados.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmVendedores.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.Properties.Resources.resources
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.exe
+C:\Users\bruno\Desktop\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.pdb
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\bin\Debug\TP Algoritmo 3.exe.config
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\bin\Debug\TP Algoritmo 3.exe
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\bin\Debug\TP Algoritmo 3.pdb
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmCierre.resources
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmClientes.resources
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmOperaciones.resources
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.frmPantallainicio.resources
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmProductos2.resources
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.frmResultados.resources
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.FrmVendedores.resources
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP_Algoritmo_3.Properties.Resources.resources
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.exe
+C:\Users\bruno\Desktop\Algoritmo 3ero\TP Algoritmo 3\TP Algoritmo 3\obj\Debug\TP Algoritmo 3.pdb
